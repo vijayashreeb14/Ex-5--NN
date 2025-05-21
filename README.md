@@ -33,7 +33,7 @@ Step 5 : Determine the output  function as
 Step 6: Test the network for accuracy<br>
 Step 7: Plot the Input space and Hidden space of RBF NN for XOR classification.
 
-<H3>PROGRAM:</H3>
+## PROGRAM:
 ```
 import numpy as np
 import matplotlib.pyplot as plt
@@ -79,13 +79,13 @@ plt.legend()
 plt.show()
 ```
 
-<H3>OUTPUT:</H3>
+## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/cd7ec31e-6b5b-46ce-b575-8b8e206b3089)
 
 ![image](https://github.com/user-attachments/assets/5c6e3318-1a9c-48b6-b93f-92d0ade4d0b4)
 
-<H3>Result:</H3>
+## Result
 Thus , a Radial Basis Function Neural Network is implemented to classify XOR data.
 
 
